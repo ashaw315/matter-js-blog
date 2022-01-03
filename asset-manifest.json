@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/matter-js-blog/static/css/main.5bbae7d2.css",
+    "main.js": "/matter-js-blog/static/js/main.94ffbb40.js",
+    "static/js/787.1b235d92.chunk.js": "/matter-js-blog/static/js/787.1b235d92.chunk.js",
+    "static/media/logo.svg": "/matter-js-blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/matter-js-blog/index.html",
+    "main.5bbae7d2.css.map": "/matter-js-blog/static/css/main.5bbae7d2.css.map",
+    "main.94ffbb40.js.map": "/matter-js-blog/static/js/main.94ffbb40.js.map",
+    "787.1b235d92.chunk.js.map": "/matter-js-blog/static/js/787.1b235d92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bbae7d2.css",
+    "static/js/main.94ffbb40.js"
+  ]
+}
